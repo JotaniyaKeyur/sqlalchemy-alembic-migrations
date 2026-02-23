@@ -6,4 +6,3 @@ class Table(Base):
 
     fullname = Column(String)
     password = Column(Integer, primary_key=True)
-    
